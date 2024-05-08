@@ -4,6 +4,7 @@ This repository is for investigation of Windows process execution techniques.
 Most of PoCs are given a name corresponding to the technique.
 
 
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/michredteam/RedTeamers/assets/168865716/1861b00d-64bb-4b59-af07-6abc18896cd6)
 
 ## Projects
 
