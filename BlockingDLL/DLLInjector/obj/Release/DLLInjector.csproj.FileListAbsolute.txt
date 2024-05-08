@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\DLLInjector.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\DLLInjector.exe
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\DLLInjector.pdb
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\DLLInjector\obj\Release\DLLInjector.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\DLLInjector\obj\Release\DLLInjector.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\DLLInjector\obj\Release\DLLInjector.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\DLLInjector\obj\Release\DLLInjector.exe
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\DLLInjector\obj\Release\DLLInjector.pdb

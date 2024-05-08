@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creando biblioteca D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\InjectLib_x64.lib y objeto D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\InjectLib_x64.exp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  InjectLib.vcxproj -> D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\InjectLib_x64.dll

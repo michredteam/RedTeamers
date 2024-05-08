@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\bin\Release\TransactedHollowing.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\bin\Release\TransactedHollowing.exe
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\bin\Release\TransactedHollowing.pdb
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\obj\Release\TransactedHollowing.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\obj\Release\TransactedHollowing.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\obj\Release\TransactedHollowing.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\obj\Release\TransactedHollowing.exe
+D:\TangledWinExec-main\TangledWinExec-main\TransactedHollowing\TransactedHollowing\obj\Release\TransactedHollowing.pdb

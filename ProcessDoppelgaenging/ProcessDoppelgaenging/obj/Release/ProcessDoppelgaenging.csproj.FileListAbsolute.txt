@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\bin\Release\ProcessDoppelgaenging.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\bin\Release\ProcessDoppelgaenging.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\bin\Release\ProcessDoppelgaenging.pdb
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\obj\Release\ProcessDoppelgaenging.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\obj\Release\ProcessDoppelgaenging.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\obj\Release\ProcessDoppelgaenging.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\obj\Release\ProcessDoppelgaenging.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessDoppelgaenging\ProcessDoppelgaenging\obj\Release\ProcessDoppelgaenging.pdb

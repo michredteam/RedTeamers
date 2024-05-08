@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\bin\Release\ProcessGhosting.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\bin\Release\ProcessGhosting.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\bin\Release\ProcessGhosting.pdb
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\obj\Release\ProcessGhosting.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\obj\Release\ProcessGhosting.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\obj\Release\ProcessGhosting.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\obj\Release\ProcessGhosting.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessGhosting\ProcessGhosting\obj\Release\ProcessGhosting.pdb

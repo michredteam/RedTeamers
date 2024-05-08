@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\bin\Release\RemoteForking.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\bin\Release\RemoteForking.exe
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\bin\Release\RemoteForking.pdb
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\RemoteForking\obj\Release\RemoteForking.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\RemoteForking\obj\Release\RemoteForking.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\RemoteForking\obj\Release\RemoteForking.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\RemoteForking\obj\Release\RemoteForking.exe
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\RemoteForking\obj\Release\RemoteForking.pdb

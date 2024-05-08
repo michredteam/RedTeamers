@@ -1,0 +1,7 @@
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\bin\Release\ReflectiveInjector.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\bin\Release\ReflectiveInjector.exe
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\bin\Release\ReflectiveInjector.pdb
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\ReflectiveInjector\obj\Release\ReflectiveInjector.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\ReflectiveInjector\obj\Release\ReflectiveInjector.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\ReflectiveInjector\obj\Release\ReflectiveInjector.exe
+D:\TangledWinExec-main\TangledWinExec-main\ReflectiveDLLInjection\ReflectiveInjector\obj\Release\ReflectiveInjector.pdb

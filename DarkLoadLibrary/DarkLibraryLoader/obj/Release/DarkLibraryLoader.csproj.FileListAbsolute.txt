@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\bin\Release\DarkLibraryLoader.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\bin\Release\DarkLibraryLoader.exe
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\bin\Release\DarkLibraryLoader.pdb
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\obj\Release\DarkLibraryLoader.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\obj\Release\DarkLibraryLoader.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\obj\Release\DarkLibraryLoader.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\obj\Release\DarkLibraryLoader.exe
+D:\TangledWinExec-main\TangledWinExec-main\DarkLoadLibrary\DarkLibraryLoader\obj\Release\DarkLibraryLoader.pdb

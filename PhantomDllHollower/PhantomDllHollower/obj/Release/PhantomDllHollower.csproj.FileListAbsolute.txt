@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\bin\Release\PhantomDllHollower.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\bin\Release\PhantomDllHollower.exe
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\bin\Release\PhantomDllHollower.pdb
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\obj\Release\PhantomDllHollower.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\obj\Release\PhantomDllHollower.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\obj\Release\PhantomDllHollower.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\obj\Release\PhantomDllHollower.exe
+D:\TangledWinExec-main\TangledWinExec-main\PhantomDllHollower\PhantomDllHollower\obj\Release\PhantomDllHollower.pdb

@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\SelfDefend.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\SelfDefend.exe
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\SelfDefend.pdb
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\SelfDefend\obj\Release\SelfDefend.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\SelfDefend\obj\Release\SelfDefend.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\SelfDefend\obj\Release\SelfDefend.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\SelfDefend\obj\Release\SelfDefend.exe
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\SelfDefend\obj\Release\SelfDefend.pdb

@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\bin\Release\GhostlyHollowing.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\bin\Release\GhostlyHollowing.exe
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\bin\Release\GhostlyHollowing.pdb
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\obj\Release\GhostlyHollowing.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\obj\Release\GhostlyHollowing.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\obj\Release\GhostlyHollowing.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\obj\Release\GhostlyHollowing.exe
+D:\TangledWinExec-main\TangledWinExec-main\GhostlyHollowing\GhostlyHollowing\obj\Release\GhostlyHollowing.pdb

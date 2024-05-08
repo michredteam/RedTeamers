@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\bin\Release\ProcessHollowing.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\bin\Release\ProcessHollowing.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\bin\Release\ProcessHollowing.pdb
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\obj\Release\ProcessHollowing.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\obj\Release\ProcessHollowing.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\obj\Release\ProcessHollowing.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\obj\Release\ProcessHollowing.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHollowing\ProcessHollowing\obj\Release\ProcessHollowing.pdb

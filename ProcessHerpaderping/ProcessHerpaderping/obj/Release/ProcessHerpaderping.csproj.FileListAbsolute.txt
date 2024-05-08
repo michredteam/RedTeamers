@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\bin\Release\ProcessHerpaderping.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\bin\Release\ProcessHerpaderping.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\bin\Release\ProcessHerpaderping.pdb
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\obj\Release\ProcessHerpaderping.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\obj\Release\ProcessHerpaderping.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\obj\Release\ProcessHerpaderping.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\obj\Release\ProcessHerpaderping.exe
+D:\TangledWinExec-main\TangledWinExec-main\ProcessHerpaderping\ProcessHerpaderping\obj\Release\ProcessHerpaderping.pdb

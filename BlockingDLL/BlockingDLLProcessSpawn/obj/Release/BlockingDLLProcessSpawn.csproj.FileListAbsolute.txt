@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\BlockingDLLProcessSpawn.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\BlockingDLLProcessSpawn.exe
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\bin\Release\BlockingDLLProcessSpawn.pdb
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\BlockingDLLProcessSpawn\obj\Release\BlockingDLLProcessSpawn.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\BlockingDLLProcessSpawn\obj\Release\BlockingDLLProcessSpawn.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\BlockingDLLProcessSpawn\obj\Release\BlockingDLLProcessSpawn.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\BlockingDLLProcessSpawn\obj\Release\BlockingDLLProcessSpawn.exe
+D:\TangledWinExec-main\TangledWinExec-main\BlockingDLL\BlockingDLLProcessSpawn\obj\Release\BlockingDLLProcessSpawn.pdb

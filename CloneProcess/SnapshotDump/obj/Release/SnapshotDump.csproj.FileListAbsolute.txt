@@ -1,0 +1,8 @@
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\bin\Release\SnapshotDump.exe.config
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\bin\Release\SnapshotDump.exe
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\bin\Release\SnapshotDump.pdb
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\SnapshotDump\obj\Release\SnapshotDump.csproj.AssemblyReference.cache
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\SnapshotDump\obj\Release\SnapshotDump.csproj.SuggestedBindingRedirects.cache
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\SnapshotDump\obj\Release\SnapshotDump.csproj.CoreCompileInputs.cache
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\SnapshotDump\obj\Release\SnapshotDump.exe
+D:\TangledWinExec-main\TangledWinExec-main\CloneProcess\SnapshotDump\obj\Release\SnapshotDump.pdb
